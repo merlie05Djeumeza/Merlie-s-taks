@@ -1,0 +1,19 @@
+p
+{
+	color: black;
+	font-size: x-large;
+	font-family:  sans-serif;
+	background-color: green;
+}
+h1{
+	background-color: rgba(255,0,0,0.5);
+	color: maroon;
+	font-family: Times New Roman;
+	font-size: 2em;
+
+	
+}
+body
+{
+	background-image: url("img_201");
+}

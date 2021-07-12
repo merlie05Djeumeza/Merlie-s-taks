@@ -1,0 +1,84 @@
+body{
+	background: linear-gradient(400deg,#00dbde,#fc00ef);
+	font-family: "Century Gothic";
+	font-size: 14px;
+	line-height: 30px;
+	
+}
+
+.div1{
+	background-color: white;
+	width: 275px;
+	height: 590px;
+	margin: auto;
+	margin-top: 25px;
+	margin-bottom: 20px;
+	border-radius: 6px;
+	padding: 40px;
+}
+
+.div0{
+	text-align: center;
+	font-family: "Aharoni";
+	font-size: 16px;
+	color: black;
+	font-weight: bolder;
+
+}
+.div2, .div4{
+	color: black;
+	font-weight: bold;
+	opacity: 0.6;
+}
+
+.div3, .div5{
+	color: gray;
+	opacity: 0.5;
+}
+
+.bloc1,.bloc2{
+	border: 2px;
+}
+
+.div6{
+	text-indent: 150px;
+	font-weight: bold;
+	color: black;
+	opacity: 0.5;
+	
+}
+
+.div7{
+	color: white;
+	font-weight: normal;
+	text-align: center;
+	background: linear-gradient(100deg,#00dbde,#fc00ff); 
+	border-radius: 18px;
+}
+
+.div8,.div10{
+	text-align: center;
+}
+
+.div10{
+	line-height: 7px;
+}
+
+.div12, .div11{
+	color: black;
+	opacity: 0.6;
+
+line-height: 20px;
+}
+
+.div11{
+	font-size: 10px;
+	color: black;
+	font-weight: bold;
+	opacity: 0.4;
+
+}
+
+.image{
+	border: 2px solid white;
+}

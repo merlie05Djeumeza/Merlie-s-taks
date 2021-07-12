@@ -1,0 +1,21 @@
+body{
+	background: linear-gradient(100deg,#00dbde,#fc00ff);
+}
+
+#A{
+	text-align: center;
+}
+
+
+#a1
+{
+	margin: auto;
+	margin-top: 50px;
+	display: flex;
+	height: 45px;
+}
+
+hr{
+	
+}
+
